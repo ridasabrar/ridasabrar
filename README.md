@@ -67,6 +67,18 @@ I am currently open to taking on challenging freelance projects. I partner with 
 
 ---
 
+## 🌟 Client Feedback
+
+Here is what some of my clients have to say about my work:
+
+> **"Rida delivered an exceptional SaaS architecture. His understanding of backend scaling with PostgreSQL and Node.js saved us months of work. Highly recommended!"** <br>
+> ⭐⭐⭐⭐⭐ — *Tech Startup Founder*
+
+> **"Very professional and easy to communicate with. He turned our complex requirements into a clean, intuitive React frontend perfectly integrated with our API."** <br>
+> ⭐⭐⭐⭐⭐ — *Freelance Client*
+
+---
+
 <div align="center">
   <h3>Let's Connect</h3>
   <p>Join my professional network of 9,000+ industry peers.</p>
